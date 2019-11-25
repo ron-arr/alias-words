@@ -1,0 +1,27 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "target": "es5",
+    "moduleResolution": "node",
+    "module": "esnext",
+    "jsx": "preserve",
+    "lib": ["es6", "es2017.object", "dom"],
+    "allowSyntheticDefaultImports": true,
+    "diagnostics": true,
+    "downlevelIteration": true,
+    "esModuleInterop": true,
+    "extendedDiagnostics": true,
+    "forceConsistentCasingInFileNames": true,
+    "isolatedModules": true,
+    "keyofStringsOnly": true,
+    "noEmit": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "suppressImplicitAnyIndexErrors": true
+  },
+  "include": ["./index.d.ts"]
+}

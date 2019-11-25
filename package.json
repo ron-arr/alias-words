@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ron-arr/alias-words/issues"
   },
-  "homepage": "https://github.com/ron-arr/alias-words#readme"
+  "homepage": "https://github.com/ron-arr/alias-words#readme",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "typings": "./index.d.ts"
 }
