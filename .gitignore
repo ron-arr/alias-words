@@ -1,0 +1,15 @@
+# development
+/.idea
+/.vscode
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+*.txt
+.DS_Store
+
+*.log*
+
