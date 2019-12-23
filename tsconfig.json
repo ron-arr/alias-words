@@ -23,5 +23,5 @@
     "strict": true,
     "suppressImplicitAnyIndexErrors": true
   },
-  "include": ["./index.d.ts"]
+  "files": ["./index.d.ts", "./easy.d.ts", "./norm.d.ts", "./hard.d.ts"]
 }

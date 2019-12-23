@@ -1,1 +1,2 @@
-export const easy: string[];
+declare const easy: string[];
+export default easy;

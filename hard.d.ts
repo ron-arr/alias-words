@@ -1,1 +1,2 @@
-export const hard: string[];
+declare const hard: string[];
+export default hard;

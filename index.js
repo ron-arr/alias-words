@@ -1,5 +1,3 @@
-import { easy } from "./easy.js";
-import { norm } from "./norm.js";
-import { hard } from "./hard.js";
-
-export { easy, norm, hard };
+export { default as easy } from "./easy";
+export { default as norm } from "./norm";
+export { default as hard } from "./hard";

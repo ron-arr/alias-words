@@ -1,1 +1,2 @@
-export const norm: string[];
+declare const norm: string[];
+export default norm;
