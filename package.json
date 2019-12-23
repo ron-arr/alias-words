@@ -1,0 +1,24 @@
+{
+    "name": "alias-words",
+    "version": "0.2.2",
+    "description": "Words for alias app",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ron-arr/alias-words.git"
+    },
+    "author": "Ron Arr",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/ron-arr/alias-words/issues"
+    },
+    "homepage": "https://github.com/ron-arr/alias-words#readme",
+    "devDependencies": {
+      "typescript": "^3.7.2"
+    },
+    "typings": "./index.d.ts",
+    "dependencies": {}
+  }
