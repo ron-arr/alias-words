@@ -19,5 +19,6 @@
   "devDependencies": {
     "typescript": "^3.7.2"
   },
-  "typings": "./index.d.ts"
+  "typings": "./index.d.ts",
+  "dependencies": {}
 }
